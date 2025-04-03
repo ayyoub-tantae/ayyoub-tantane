@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "id": 1
+    },
+    {
+      "name": "Smartphone",
+      "price": 499.5,
+      "id": 2
+    },
+    {
+      "name": "Écouteurs",
+      "price": 79.99,
+      "id": 3
+    },
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "id": 4
+    },
+    {
+      "name": "Smartphone",
+      "price": 499.5,
+      "id": 5
+    },
+    {
+      "name": "Écouteurs",
+      "price": 79.99,
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "product": "Laptop",
+      "quantity": 1,
+      "id": 1,
+      "date": "2025-04-03T11:46:02.804Z"
+    },
+    {
+      "product": "Smartphone",
+      "quantity": 2,
+      "id": 2,
+      "date": "2025-04-03T11:46:02.809Z"
+    },
+    {
+      "product": "Écouteurs",
+      "quantity": 3,
+      "id": 3,
+      "date": "2025-04-03T11:46:02.814Z"
+    },
+    {
+      "product": "Laptop",
+      "quantity": 1,
+      "id": 4,
+      "date": "2025-04-03T14:06:52.927Z"
+    },
+    {
+      "product": "Smartphone",
+      "quantity": 2,
+      "id": 5,
+      "date": "2025-04-03T14:06:52.931Z"
+    },
+    {
+      "product": "Écouteurs",
+      "quantity": 3,
+      "id": 6,
+      "date": "2025-04-03T14:06:52.936Z"
+    }
+  ]
+}
